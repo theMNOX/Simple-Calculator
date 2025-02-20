@@ -26,7 +26,7 @@ This project is a simple calculator built with HTML, CSS, and JavaScript. It can
 ## 🚀 How to Run
 1. Download or clone the project:
    `bash
-   git clone https://github.com/MehdiNOUX/Simple-Calculator.git
+   git clone https://github.com/theMNOX/Simple-Calculator.git
 
 2. Open the index.html file in your browser.
 
